@@ -1,5 +1,7 @@
 apples
+bananas
 berries
 cherries
 watermelons
 lemons
+pears
