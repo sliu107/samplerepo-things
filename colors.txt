@@ -6,3 +6,4 @@ purple
 grey
 black
 orange
+navy
