@@ -1,3 +1,5 @@
 apples
+bananas
 berries
 cherries
+pears
